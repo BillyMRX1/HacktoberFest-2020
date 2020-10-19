@@ -46,7 +46,7 @@ git push -u origin nama_branch
 4. Beri nama _file_ sesuai dengan tujuan algoritma _codingan_ tersebut.
 
 ### How We Maintenance Your Project
-_Pull request_ akan diproses sesuai dengan **ketentuan projek** diatas. _Pull request_ yang diterima akan diberikan label **hacktober-accepted**.
+_Pull request_ akan diproses sesuai dengan **ketentuan projek** diatas. _Pull request_ yang diterima akan diberikan label **hacktoberfest-accepted**.
 
 ### Pertanyaan, Kritik, dan Saran
 Ajukan pertanyaan, kritik, dan saran mu dengan membuat _issue_ pada _repository_ ini.
