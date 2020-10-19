@@ -33,7 +33,7 @@ git commit -am "komentar"
 ```
 6. Kemudian lakukan **push** ke _repository_ hasil fork kamu
 ```sh
-git push -u origin nama_nim
+git push -u origin nama_branch
 ```
 7. Setelah itu silahkan lakukan **pull request** pada github
 ![pull_request](res/pull_request.png)
@@ -46,6 +46,9 @@ git push -u origin nama_nim
 
 ### How We Maintenance Your Project
 _Pull request_ akan diproses sesuai dengan **ketentuan projek** diatas. _Pull request_ yang diterima akan diberikan label **hacktober-accepted**.
+
+### Pertanyaan, Kritik, dan Saran
+Ajukan pertanyaan, kritik, dan saran mu dengan membuat _issue_ pada _repository_ ini.
 
 ### Batas Akhir HacktoberFest 2020
 This repository will be accepted for Hacktoberfest only till **30th October 2020** 11:59 PM GMT
